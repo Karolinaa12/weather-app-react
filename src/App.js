@@ -14,7 +14,16 @@ export default function App() {
               target="_blank"
               rel="noreferrer"
             >
-              open-sourced on Github
+              open-sourced on Github{" "}
+            </a>
+            and hosted on{" "}
+            <a
+              href="https://app.netlify.com/sites/tangerine-pika-cc0fad/overview"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+              Netlify
             </a>
           </p>
         </footer>
